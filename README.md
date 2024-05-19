@@ -1,0 +1,2 @@
+Đây là phần code mình luyện tập theo mẫu có sẵn trên https://www.w3schools.com/w3css/tryw3css_templates_band.htm#. Bạn nào cũng đang luyện code với trang mẫu này thì có thể tham khảo code của mình.
+Và trong phần assets có một phần grid.css thì đó chỉ là phần mình làm boostrap nhưng có một số lỗi nên mình đã không link nó vào phần html, nhưng các bạn cũng có thể tham khảo phần mạng lưới đó của mình.
